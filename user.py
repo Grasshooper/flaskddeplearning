@@ -26,3 +26,4 @@ class ScrapQuotesSpiderMiddleware(object):
 
         # Should return None or raise an exception.
         return None
+if debug == trye
